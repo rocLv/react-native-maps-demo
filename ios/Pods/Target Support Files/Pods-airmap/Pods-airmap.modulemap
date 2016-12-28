@@ -1,0 +1,6 @@
+framework module Pods_airmap {
+  umbrella header "Pods-airmap-umbrella.h"
+
+  export *
+  module * { export * }
+}
